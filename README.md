@@ -1,6 +1,6 @@
 # desafio_1
 
-A new Flutter project.
+Estrutura da aplicação. ajustado a forma como a aplicação está estruturada afim de melhorar a compreensão do código.
 
 ## Getting Started
 
